@@ -19,19 +19,19 @@
 
 ### 🧮 Calculator
 > Python
-A functional calculator app.
+>A functional calculator app.
 
 ### 💰 Payroll System
 > Python
-A payroll calculator built during high school to manage employee salaries.
+>A payroll calculator built during high school to manage employee salaries.
 
 ### 🐍 Hotel Management System
 > Python
-A system to manage hotel bookings and operations.
+>A system to manage hotel bookings and operations.
 
 ### 🎵 Music Festival Website
 > HTML | CSS | JavaScript
-A multi-page website built for a music festival — my first uni project!
+>A multi-page website built for a music festival — my first uni project!
 
 
 ## 🌐 Connect With Me
