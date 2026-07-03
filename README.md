@@ -31,8 +31,3 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/farzana-94840a370) &nbsp; 📧 [Gmail](mailto:farzana.fatima8700@gmail.com)
 
 
-## 📊 GitHub Stats
-
-![Farzana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farzana-and-coffee&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farzana-and-coffee&layout=compact&theme=tokyonight)
